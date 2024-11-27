@@ -2,7 +2,7 @@
 
 [![docs](https://github.com/gpauloski/python-template/actions/workflows/docs.yml/badge.svg)](https://github.com/gpauloski/python-template/actions)
 [![tests](https://github.com/gpauloski/python-template/actions/workflows/tests.yml/badge.svg)](https://github.com/gpauloski/python-template/actions)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/gpauloski/python-template/main.svg)](https://results.pre-commit.ci/latest/github/gpauloski/python-template/main)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Zilinghan/test-template/main.svg)](https://results.pre-commit.ci/latest/github/Zilinghan/test-template/main)
 
 Python package template repo that provides:
 - Package, examples, and testing layout.
@@ -18,8 +18,8 @@ This package setup was based on [Anthony Sottile's project setup](https://www.yo
 1. Click the "Use this template" button at the top right of this page.
 2. Delete and directories you will not be using (commonly `docs/` if you do not want to use MKDocs or `examples/` if you will not have example code).
 3. Follow the instructions to create the new repo then clone your repo locally.
-4. The template uses "foobar" to indicate things that need to be changed.
-   Start by searching for all instances (`git grep foobar`) and changing them accordingly.
+4. The template uses "foobar1" to indicate things that need to be changed.
+   Start by searching for all instances (`git grep foobar1`) and changing them accordingly.
 5. Configure pre-commit:
     - Go to [https://pre-commit.ci/](https://pre-commit.ci/) and enable pre-commit on your repo.
     - Update the pre-commit badge URL in this README with your new badge URL.
@@ -49,7 +49,7 @@ I recommend making a few other changes to the repo's setting on GitHub.
 
 Install via pip:
 ```
-$ pip install foobar
+$ pip install foobar1
 ```
 
 For local development:

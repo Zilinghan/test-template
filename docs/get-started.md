@@ -1,19 +1,19 @@
 # Quick Start
 
-foobar brief description.
+foobar1 brief description.
 
 ## Overview
 
-foobar detailed overview.
+foobar1 detailed overview.
 
 ## Installation
 
 ```bash
-$ pip install foobar
+$ pip install foobar1
 ```
 
 Documentation on installing for local development is provided in [Contributing](contributing/index.md).
 
 ## Usage
 
-foobar usage example.
+foobar1 usage example.

@@ -1,10 +1,10 @@
-"""Example script that uses the foobar package."""
+"""Example script that uses the foobar1 package."""
 
 from __future__ import annotations
 
 import argparse
 
-from foobar.foo import bar
+from foobar1.foo import bar
 
 
 def main() -> int:

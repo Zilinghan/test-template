@@ -1,6 +1,6 @@
 ## Issues
 
-[Issue Tracker](https://github.com/foobar-author/foobar/issues){target=_blank}
+[Issue Tracker](https://github.com/foobar1-author/foobar1/issues){target=_blank}
 
 We use GitHub issues to report problems, request and track changes, and discuss
 future ideas.
