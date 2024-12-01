@@ -2,7 +2,7 @@ name: Bug Report
 description: Report errors or unexpected results.
 labels: ["bug"]
 assignees:
-  - foobar1-bug-assign-dev
+  - Zilinghan
 body:
   - type: textarea
     id: install

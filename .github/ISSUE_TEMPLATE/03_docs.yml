@@ -2,7 +2,7 @@ name: Documentation Improvements
 description: Suggest improvements to the documentation.
 labels: ["documentation"]
 assignees:
-  - foobar1-doc-assignee-dev
+  - Zilinghan
 body:
   - type: textarea
     id: freeform
