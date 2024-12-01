@@ -7,15 +7,16 @@ body:
   - type: textarea
     id: install
     attributes:
-      label: How did you install foobar1?
+      label: How did you install `appfl`?
       description: >
-        E.g., install via pip, install from source, etc. **Note:** this will
+        E.g., install via pip, or install from source, etc. **Note:** this will
         be rendered as console text automatically.
       placeholder: |
-        $ pip install foobar1
-        Collecting foobar1
-        ...
-        Successfully installed foobar1...
+        $ pip install appfl
+        # OR
+        $ git clone https://github.com/APPFL/APPFL.git
+        $ cd APPFL
+        $ pip install -e ".[dev,examples]"
       render: console
     validations:
       required: true
@@ -23,11 +24,11 @@ body:
   - type: input
     id: version
     attributes:
-      label: What version of foobar1 are you using?
+      label: What version of `appfl` are you using?
       description: >
         Package version if installed via Pip or commit ID if installed
         from source.
-      placeholder: v1.2.3
+      placeholder: v1.1.0
     validations:
       required: true
 
